@@ -1,0 +1,42 @@
+Voltix Studio live API reprobe
+Generated: 2026-05-02 22:52:21 UTC
+
+===== https://voltixstudio.com/api/trpc/voltix.servers =====
+HTTP/1.1 200 OK
+Content-Length: 1253
+Content-Type: text/html
+Date: Sat, 02 May 2026 22:52:23 GMT
+Server: nginx/1.29.8
+Accept-Ranges: bytes
+ETag: "69f2741c-4e5"
+Last-Modified: Wed, 29 Apr 2026 21:11:56 GMT
+
+--- body preview ---
+<!doctype html> <html lang="en">   <head>     <meta charset="UTF-8" />     <link rel="icon" type="image/svg+xml" href="/vite.svg" />     <meta name="viewport" content="width=device-width, initial-scale=1.0" />     <title>Voltix Studios | Unlimited Streaming</title>     <!-- Google Analytics -->     
+
+===== https://voltixstudio.com/api/trpc/system.health =====
+HTTP/1.1 200 OK
+Content-Length: 1253
+Content-Type: text/html
+Date: Sat, 02 May 2026 22:52:26 GMT
+Server: nginx/1.29.8
+Accept-Ranges: bytes
+ETag: "69f2741c-4e5"
+Last-Modified: Wed, 29 Apr 2026 21:11:56 GMT
+
+--- body preview ---
+<!doctype html> <html lang="en">   <head>     <meta charset="UTF-8" />     <link rel="icon" type="image/svg+xml" href="/vite.svg" />     <meta name="viewport" content="width=device-width, initial-scale=1.0" />     <title>Voltix Studios | Unlimited Streaming</title>     <!-- Google Analytics -->     
+
+===== https://voltixstudio.com/api/trpc/voltix.servers?input=%7B%7D =====
+HTTP/1.1 200 OK
+Content-Length: 1253
+Content-Type: text/html
+Date: Sat, 02 May 2026 22:52:29 GMT
+Server: nginx/1.29.8
+Accept-Ranges: bytes
+ETag: "69f2741c-4e5"
+Last-Modified: Wed, 29 Apr 2026 21:11:56 GMT
+
+--- body preview ---
+<!doctype html> <html lang="en">   <head>     <meta charset="UTF-8" />     <link rel="icon" type="image/svg+xml" href="/vite.svg" />     <meta name="viewport" content="width=device-width, initial-scale=1.0" />     <title>Voltix Studios | Unlimited Streaming</title>     <!-- Google Analytics -->     
+
