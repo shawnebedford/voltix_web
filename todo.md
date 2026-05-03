@@ -1,4 +1,4 @@
-# Voltix Streaming Service — TODO
+# Voltix Streaming Platform - TODO (Last Deployment Trigger: 2026-05-03)
 
 ## Backend / Schema
 - [x] Extend drizzle schema: voltixUsers, sessions, deviceLogs, servers tables
