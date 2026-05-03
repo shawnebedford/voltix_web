@@ -28,7 +28,7 @@ jobs:
 
       - name: pnpm install and build
         run: |
-          pnpm install
+          pnpm install --no-frozen-lockfile
           pnpm run build
 
       - name: Upload artifact for deployment job
